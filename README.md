@@ -39,6 +39,3 @@ pip install pandas numpy matplotlib scikit-learn
 - 脚本注释详细，适合初学者学习参考。
 - macOS下如出现字体警告，脚本已自动适配常见中文字体。
 - 数据集需包含名为`Potability`的目标列。
-
-## 作者
-- 由AI助手整理优化，适合初学者学习。 
